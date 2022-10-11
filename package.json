@@ -10,7 +10,7 @@
     "เว็บหวยลาวออนไลน์",
     "ลาววีไอพีสด"
   ],
-  "repository": "https://github.com/setteebet/qw82-syntax.git",
+  "repository": "https://github.com/setteebet/qw81-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
